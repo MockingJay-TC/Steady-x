@@ -519,21 +519,19 @@ One1 ul li:active {
   display: inline-block;
   padding: 3.2rem;
   width: 100%;
+  text-align: center;
 }
 .spon_title {
   color: #1f1a1a;
-  margin-left: 35%;
   font-size: 24px;
 }
 .logo_item {
   margin: 1.6rem;
   display: inline;
 }
-.logo_item img {
-}
+
 .space {
-  margin-left: 20%;
-  margin-top: 10px;
+  margin-top: 15px;
 }
 
 .you {
